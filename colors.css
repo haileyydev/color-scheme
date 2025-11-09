@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+
+:root {
+    /* colors */
+    --bg-color: #161319; /* background of page */
+    --surface-color: #0e0d0f; /* background of boxes on the page */
+    --primary-color: #64317f; /* primary color (for interactive elements) */
+    --primary-hover-color: #784097; /* primary color when hovered */
+    --secondary-color: #332e36; /* secondary color (for interactive elements) */
+    --secondary-hover-color: #4b474d; /* secondary color when hovered */
+    --text-color: #f7ebff; /* main text colour, for headers & titles */
+    --text-dark-color: #736b78; /* darker text, for body text */
+    --border-color: #272329; /* border of boxes */
+    --input-color: #0d0b0f; /* for the background of inputs */
+    --link-colour: #00ffff; /* for hyperlinks */
+    /* radius and font */
+    --container-radius: 8px; /* border radius for boxes */
+    --content-radius: 5px; /* border radius for elements */
+    --font-family: 'Roboto Mono', monospace; /* the font to use for everything */
+    /* transitions */
+    --transition-speed: 0.2s;
+}
